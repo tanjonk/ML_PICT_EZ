@@ -1,2 +1,2 @@
-# ML_PICT_EZ
+# ML_PICT_DicodingID
 Simple Machine Learning Image
